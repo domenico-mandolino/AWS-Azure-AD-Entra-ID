@@ -63,8 +63,6 @@ Chaque projet contient sa propre documentation détaillée et ses scripts dans l
 - `/aws-iam-ec2`
 - `/aws-rds-s3`
 
-## Auteur
-[Votre Nom]
 
 ## Notes
 Projets réalisés dans le cadre de la formation Cloud Computing à La Plateforme_
